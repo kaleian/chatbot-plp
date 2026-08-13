@@ -1,0 +1,72 @@
+[
+    {
+        "orderId": "NSR-1001",
+        "orderStatus": "Confirmed",
+        "shippingStatus": "Preparing for Shipment",
+        "carrier": "G4S Kenya",
+        "estimatedDeliveryDate": "2026-08-18"
+    },
+    {
+        "orderId": "NSR-1002",
+        "orderStatus": "Processing",
+        "shippingStatus": "Awaiting Pickup",
+        "carrier": "Wells Fargo Courier",
+        "estimatedDeliveryDate": "2026-08-19"
+    },
+    {
+        "orderId": "NSR-1003",
+        "orderStatus": "Shipped",
+        "shippingStatus": "In Transit",
+        "carrier": "Sendy",
+        "estimatedDeliveryDate": "2026-08-16"
+    },
+    {
+        "orderId": "NSR-1004",
+        "orderStatus": "Shipped",
+        "shippingStatus": "Out for Delivery",
+        "carrier": "Rider by Sendy",
+        "estimatedDeliveryDate": "2026-08-14"
+    },
+    {
+        "orderId": "NSR-1005",
+        "orderStatus": "Delivered",
+        "shippingStatus": "Delivered",
+        "carrier": "G4S Kenya",
+        "estimatedDeliveryDate": "2026-08-12"
+    },
+    {
+        "orderId": "NSR-1006",
+        "orderStatus": "Delivered",
+        "shippingStatus": "Delivered",
+        "carrier": "Wells Fargo Courier",
+        "estimatedDeliveryDate": "2026-08-11"
+    },
+    {
+        "orderId": "NSR-1007",
+        "orderStatus": "Processing",
+        "shippingStatus": "Shipment Delayed",
+        "carrier": "Sendy",
+        "estimatedDeliveryDate": "2026-08-21"
+    },
+    {
+        "orderId": "NSR-1008",
+        "orderStatus": "Cancelled",
+        "shippingStatus": "Not Shipped",
+        "carrier": "N/A",
+        "estimatedDeliveryDate": "N/A"
+    },
+    {
+        "orderId": "NSR-1009",
+        "orderStatus": "Shipped",
+        "shippingStatus": "In Transit",
+        "carrier": "Posta Kenya EMS",
+        "estimatedDeliveryDate": "2026-08-17"
+    },
+    {
+        "orderId": "NSR-1010",
+        "orderStatus": "Confirmed",
+        "shippingStatus": "Preparing for Shipment",
+        "carrier": "G4S Kenya",
+        "estimatedDeliveryDate": "2026-08-20"
+    }
+]
