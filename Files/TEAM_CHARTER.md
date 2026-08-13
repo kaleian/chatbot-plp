@@ -15,3 +15,9 @@ Deadlines are to be adhered to strictly.
 ⏰ We should give ourselves a day before the deadline to complete a project so that we have enough time to go through it to ensure that everything is okay.
 
 🐸 We shall use the strategy, "Eat the Frog" meaning that we do the difficult tasks first before doing the easy tasks not unless there is a chronology of tasks where for example for you to do B you must first do A in which case A is the easier task. 
+
+🚀 Proactive Communication: Members should communicate blockers, delays, or challenges as soon as they arise.
+
+📋 Board Updates: All members must update the project board whenever they start, pause, or complete a task.
+
+✅ Quality Assurance: No task should be marked as complete until it meets its Definition of Done and has been properly reviewed.
