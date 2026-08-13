@@ -1,7 +1,7 @@
-1. Breaking tasks into smaller tasks/milestone and then marking the end of each milestone.
+🚀 Breaking tasks into smaller tasks/milestone and then marking the end of each milestone.
 
 
-2. Milestones to be given to each member and a deadline for each milestone to be set either on a daily basis or a weekly basis.
+ Milestones to be given to each member and a deadline for each milestone to be set either on a daily basis or a weekly basis.
 
   
 3. Each member to say what they can do best so that milestones are given according to ones strength.
