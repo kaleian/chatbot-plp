@@ -148,3 +148,22 @@ delivery information
 15. Merge
         ↓
 16. Issue → DONE
+
+
+
+
+
+#### Step by step guide to push your branch to github
+
+
+git checkout main
+git pull origin main
+
+git checkout -b feat/NS-XX-short-description
+
+# Work on the issue in VS Code
+
+git status
+git add .
+git commit -m "feat: what changed - why it matters"
+git push -u origin feat/NS-XX-short-description
