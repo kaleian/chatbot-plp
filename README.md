@@ -111,3 +111,40 @@ order           guidance
 Return status /
 shipping /
 delivery information
+
+
+
+
+
+#### Collaborating instructions
+1. Open assigned Issue
+        ↓
+2. Understand requirements
+        ↓
+3. Move Issue → IN PROGRESS
+        ↓
+4. Create a branch
+        ↓
+5. Work locally
+        ↓
+6. Test the work
+        ↓
+7. Commit with correct message
+        ↓
+8. Push branch to GitHub
+        ↓
+9. Create Pull Request
+        ↓
+10. Link Pull Request to Issue
+        ↓
+11. Move Issue → IN REVIEW
+        ↓
+12. Teammate reviews
+        ↓
+13. Fix requested changes if any
+        ↓
+14. Pull Request approved
+        ↓
+15. Merge
+        ↓
+16. Issue → DONE
