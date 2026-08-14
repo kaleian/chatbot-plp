@@ -50,7 +50,7 @@ Team Agreement
 
 By signing below, we confirm that we have read, understood, and agreed to follow this Team Charter throughout the Northstar Sprint.
 
-Member	              Signature	
+Member	             ** Signature	
 
 Clarryson:	    _Ckay______________
 
