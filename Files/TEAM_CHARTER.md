@@ -1,16 +1,26 @@
 🚀 NORTHSTAR SPRINT — TEAM CHARTER
 
 Project: Northstar Support Deflection MVP
+
 Sprint: 5 Days
+
 Team: Clarryson, Ketim, Ian, Cosmas, Gladys
 
 Team Roles
 Member	Role
+
 Clarryson	Team Lead / Requirements / Integration
+
 Ketim	Frontend / Chatbot Interface
+
 Ian	Backend / Order Data / Order Lookup
+
 Cosmas	Chatbot Logic / Conversation Flows
+
 Gladys	Testing / Deployment / Handover
+
+Hopeson Emirundu /project manager
+
 Team Working Rules
 
 🚀 Task Breakdown: Break large tasks into smaller milestones with clear owners and Definitions of Done.
@@ -39,11 +49,17 @@ By signing below, we confirm that we have read, understood, and agreed to follow
 
 Member	         Signature	
 Clarryson:	    _Ckay______________
+
 Ketim:	        __________________	
+
 Ian:	          __________________	
+
 Cosmas:	        __________________	
+
 Gladys :      	________________
 
+Hopeson Emirundu:________________
+
 Team Lead: Clarryson
+
 Signature: __________________
-Date:      __________________
