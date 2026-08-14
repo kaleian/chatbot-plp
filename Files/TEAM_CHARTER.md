@@ -21,7 +21,7 @@ Member	Role
 
 -Hopeson Emirundu /project manager
 
-Team Working Rules
+*****Team Working Rules****
 
 🚀 Task Breakdown: Break large tasks into smaller milestones with clear owners and Definitions of Done.
 
