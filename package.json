@@ -1,0 +1,24 @@
+﻿{
+  "name": "northstar-support-chatbot",
+  "version": "1.0.0",
+  "description": "Northstar Retail Co. Support Deflection Chatbot & Order API MVP",
+  "main": "Files/backend/server.js",
+  "scripts": {
+    "start": "node Files/backend/server.js",
+    "dev": "nodemon Files/backend/server.js",
+    "postinstall": "cd Files/backend && npm install"
+  },
+  "keywords": [
+    "chatbot",
+    "express",
+    "northstar",
+    "support-deflection",
+    "order-tracking"
+  ],
+  "author": "Northstar Team",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
