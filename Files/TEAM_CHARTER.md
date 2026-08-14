@@ -4,7 +4,7 @@ Project: Northstar Support Deflection MVP
 
 Sprint: 5 Days
 
-Team: Clarryson, Ketim, Ian, Cosmas, Gladys
+Team: Clarryson, Ketim, Ian, Cosmas, Gladys,Hopeson
 
 Team Roles
 Member	Role
