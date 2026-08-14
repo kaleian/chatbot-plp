@@ -12,27 +12,38 @@ Ian	Backend / Order Data / Order Lookup
 Cosmas	Chatbot Logic / Conversation Flows
 Gladys	Testing / Deployment / Handover
 Team Working Rules
+
 🚀 Task Breakdown: Break large tasks into smaller milestones with clear owners and Definitions of Done.
+
 📅 Deadlines: Every milestone must have an agreed deadline and members must meet it.
+
 💪 Strengths: Assign tasks according to each member's skills and strengths.
+
 🚨 Blockers: Report delays, blockers, or halted tasks immediately and explain how the team can help.
+
 🙋 Clarification: Ask the team promptly whenever a task or requirement is unclear.
+
 ⏰ Buffer: Aim to complete major work at least one day before the final deadline for testing and corrections.
+
 🐸 Eat the Frog: Prioritize difficult and high-risk tasks first, while respecting task dependencies.
+
 📋 Board Updates: Update the GitHub Project Board whenever a task is started, paused, blocked, reviewed, or completed.
+
 ✅ Quality: A task can only be marked Done after its Definition of Done is satisfied and the work has been reviewed.
+
 🤝 Teamwork: Members shall support one another, communicate respectfully, and contribute meaningfully to the final project.
 Team Agreement
 
+
 By signing below, we confirm that we have read, understood, and agreed to follow this Team Charter throughout the Northstar Sprint.
 
-Member	Signature	Date
-Clarryson	__________________	__________
-Ketim	__________________	__________
-Ian	__________________	__________
-Cosmas	__________________	__________
-Gladys	__________________	__________
+Member	         Signature	
+Clarryson:	    _Ckay______________
+Ketim:	        __________________	
+Ian:	          __________________	
+Cosmas:	        __________________	
+Gladys :      	________________
 
 Team Lead: Clarryson
 Signature: __________________
-Date: __________________
+Date:      __________________
