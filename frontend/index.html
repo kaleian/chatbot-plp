@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Northstar Chat Support</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="chat-container">
+        <!-- Header with Status Indicator -->
+      <!-- Upgraded Header with Status Indicator and Theme Toggle -->
+        <div id="chat-header">
+            <div class="header-info">
+                <div class="avatar-container">
+                    <div class="bot-avatar-icon">N</div>
+                    <div class="status-dot"></div>
+                </div>
+                <div class="header-text">
+                    <h3>Northstar Support</h3>
+                    <p>Typically replies instantly</p>
+                </div>
+            </div>
+            <!-- NEW: Night Mode Toggle -->
+            <button id="theme-toggle" aria-label="Toggle Night Mode">🌙</button>
+        </div>
+        <!-- Chat Window -->
+        <div id="chat-window">
+            <div class="message-wrapper bot">
+                <div class="bot-avatar-small">N</div>
+                <div class="message bot-message">
+                    Hello! I am the Northstar Assistant. Do you need help tracking an order or making a return?
+                </div>
+            </div>
+            <!-- Future messages will be injected here by JavaScript -->
+        </div>
+
+        <!-- Input Area -->
+        <div id="chat-input-area">
+            <input type="text" id="user-input" placeholder="Type your message..." autocomplete="off">
+            <button id="send-btn" aria-label="Send">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
