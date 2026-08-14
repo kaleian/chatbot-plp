@@ -5,7 +5,6 @@ This folder contains the responsive web interface and client-side intent-matchin
 
 Features
 - Modern Chat UI: Responsive layout with smooth slide-in animations, bot avatars, and asymmetrical chat bubbles.
-- Quick-Topic Dropdown: Instant shortcuts for users to select common queries (Order Status & Returns).
 - Night Mode Toggle: Seamless switching between light and dark themes.
 - Keyword Logic Engine: Client-side fallback handler for order tracking and return policies.
 
