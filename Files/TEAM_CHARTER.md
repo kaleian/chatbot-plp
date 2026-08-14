@@ -6,7 +6,8 @@
 💪 Each member to say what they can do best so that milestones are given according to ones strength.
 
   
-🚨 In case of a slowdown or a sudden halt to a milestone by a member, the member should communicate as early possible about the halt and the reason and how the rest of the team can help.
+🚨
+ In case of a slowdown or a sudden halt to a milestone by a member, the member should communicate as early possible about the halt and the reason and how the rest of the team can help.
 
   
 🙋 Members who do not understand a certain task should promptly let the rest of the team know. 
@@ -21,3 +22,24 @@ Deadlines are to be adhered to strictly.
 📋 Board Updates: All members must update the project board whenever they start, pause, or complete a task.
 
 ✅ Quality Assurance: No task should be marked as complete until it meets its Definition of Done and has been properly reviewed.
+
+
+
+
+
+---
+
+## Digital Team Sign-Off
+
+This Team Charter will be approved through the GitHub Pull Request
+review process.
+
+Each team member must review the charter and select **Approve** on
+the Pull Request.
+
+GitHub will automatically record each member's GitHub username,
+approval, and review timestamp.
+
+The charter will be considered officially approved once all required
+team members have approved the Pull Request and it has been merged
+into the `main` branch.
