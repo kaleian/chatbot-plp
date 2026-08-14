@@ -9,17 +9,17 @@ Team: Clarryson, Ketim, Ian, Cosmas, Gladys,Hopeson
 Team Roles
 Member	Role
 
-Clarryson	Team Lead / Requirements / Integration
+-Clarryson	Team Lead / Requirements / Integration
 
-Ketim	Frontend / Chatbot Interface
+-Ketim	Frontend / Chatbot Interface
 
-Ian	Backend / Order Data / Order Lookup
+-Ian	Backend / Order Data / Order Lookup
 
-Cosmas	Chatbot Logic / Conversation Flows
+-Cosmas	Chatbot Logic / Conversation Flows
 
-Gladys	Testing / Deployment / Handover
+-Gladys	Testing / Deployment / Handover
 
-Hopeson Emirundu /project manager
+-Hopeson Emirundu /project manager
 
 Team Working Rules
 
