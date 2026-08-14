@@ -1,14 +1,14 @@
-﻿# Northstar Retail Co. Support Deflection Chatbot — Go-Live Readiness & Handover Note
+# Northstar Retail Co. Support Deflection Chatbot � Go-Live Readiness & Handover Note
 
 **Document Version:** 1.0.0  
 **Project:** Northstar Support Deflection MVP  
-**Status:** ✅ Ready for MVP Pilot / Deployment  
+**Status:** ? Ready for MVP Pilot / Deployment  
 **Repository:** [github.com/kaleian/chatbot-plp](https://github.com/kaleian/chatbot-plp)  
 
 ---
 
 ## 1. Executive Summary
-The **Northstar Support Deflection Chatbot MVP** has been successfully developed, integrated, and validated end-to-end. The system delivers a unified web-based chat assistant connected to an Express.js backend that handles Tier-1 customer support inquiries—specifically **order status tracking** and **return/refund policy guidance**—reducing customer wait times and deflecting routine tickets from human agents.
+The **Northstar Support Deflection Chatbot MVP** has been successfully developed, integrated, and validated end-to-end. The system delivers a unified web-based chat assistant connected to an Express.js backend that handles Tier-1 customer support inquiries�specifically **order status tracking** and **return/refund policy guidance**�reducing customer wait times and deflecting routine tickets from human agents.
 
 ---
 
@@ -49,12 +49,12 @@ The **Northstar Support Deflection Chatbot MVP** has been successfully developed
 
 | Feature | Description | Status |
 |---|---|---|
-| **Order Status Tracking** | Users query order IDs (e.g., `NSR-1003`) to retrieve live order status, shipping progress, carrier, and estimated delivery dates. | ✅ Operational |
-| **Returns & Refunds Policy** | Automated responses detailing the 30-day return window and 3-5 day refund processing timeline. | ✅ Operational |
-| **Live API Integration** | Real-time `fetch` communication between frontend and Express API with animated typing feedback. | ✅ Operational |
-| **Error Handling & Fallbacks** | Friendly error messages for unrecognized order numbers and out-of-scope queries. | ✅ Operational |
-| **UX & Accessibility** | Dark/Night mode toggle, mobile-responsive view, keyboard navigation (`Enter` key to send). | ✅ Operational |
-| **Health Check Endpoint** | Dedicated `/api/health` endpoint for uptime and deployment monitoring. | ✅ Operational |
+| **Order Status Tracking** | Users query order IDs (e.g., `NSR-1003`) to retrieve live order status, shipping progress, carrier, and estimated delivery dates. | ? Operational |
+| **Returns & Refunds Policy** | Automated responses detailing the 30-day return window and 3-5 day refund processing timeline. | ? Operational |
+| **Live API Integration** | Real-time `fetch` communication between frontend and Express API with animated typing feedback. | ? Operational |
+| **Error Handling & Fallbacks** | Friendly error messages for unrecognized order numbers and out-of-scope queries. | ? Operational |
+| **UX & Accessibility** | Dark/Night mode toggle, mobile-responsive view, keyboard navigation (`Enter` key to send). | ? Operational |
+| **Health Check Endpoint** | Dedicated `/api/health` endpoint for uptime and deployment monitoring. | ? Operational |
 
 ---
 
