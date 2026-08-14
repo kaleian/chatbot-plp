@@ -2,7 +2,7 @@ const chatWindow = document.getElementById('chat-window');
 const userInput = document.getElementById('user-input');
 const sendBtn = document.getElementById('send-btn');
 
-const API_BASE = 'http://localhost:3000';
+const API_BASE = window.location.protocol === 'file:' ? 'http://localhost:3000' : '';
 
 // Track conversation state
 let awaitingOrderId = false;
