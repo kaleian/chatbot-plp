@@ -1,0 +1,10 @@
+﻿services:
+  - type: web
+    name: northstar-support-chatbot
+    env: node
+    plan: free
+    buildCommand: npm install && cd Files/backend && npm install
+    startCommand: node Files/backend/server.js
+    envVars:
+      - key: PORT
+        value: 10000

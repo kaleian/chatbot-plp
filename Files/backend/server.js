@@ -1,4 +1,4 @@
-const express = require("express");
+﻿const express = require("express");
 const cors = require("cors");
 const fs = require("fs");
 const path = require("path");
@@ -10,12 +10,27 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 
+// Serve static frontend files for unified deployment
+const frontendPath = path.join(__dirname, "../../frontend");
+app.use(express.static(frontendPath));
+
 // Load orders data
 const ordersPath = path.join(__dirname, "orders.json");
 const orders = JSON.parse(fs.readFileSync(ordersPath, "utf-8"));
 
 // -----------------------------------------------
-// GET /api/orders/:orderId  � Order lookup endpoint
+// GET /api/health  — Health check endpoint
+// -----------------------------------------------
+app.get("/api/health", (req, res) => {
+  res.status(200).json({
+    status: "ok",
+    service: "Northstar Order API & Chatbot Support MVP",
+    timestamp: new Date().toISOString(),
+  });
+});
+
+// -----------------------------------------------
+// GET /api/orders/:orderId  — Order lookup endpoint
 // -----------------------------------------------
 app.get("/api/orders/:orderId", (req, res) => {
   const { orderId } = req.params;
@@ -45,7 +60,7 @@ app.get("/api/orders/:orderId", (req, res) => {
 });
 
 // -----------------------------------------------
-// GET /api/orders  � List all orders (handy for testing)
+// GET /api/orders  — List all orders (handy for testing)
 // -----------------------------------------------
 app.get("/api/orders", (req, res) => {
   return res.status(200).json({
@@ -56,14 +71,19 @@ app.get("/api/orders", (req, res) => {
 });
 
 // -----------------------------------------------
-// 404 fallback
+// Fallback: serve frontend index.html for non-API routes
 // -----------------------------------------------
-app.use((req, res) => {
-  res.status(404).json({ success: false, message: "Route not found." });
+app.get("*", (req, res) => {
+  if (req.path.startsWith("/api/")) {
+    return res.status(404).json({ success: false, message: "Route not found." });
+  }
+  res.sendFile(path.join(frontendPath, "index.html"));
 });
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`Northstar Order API running at http://localhost:${PORT}`);
+  console.log(`Northstar Order & Support MVP running at http://localhost:${PORT}`);
+  console.log(`Frontend: http://localhost:${PORT}`);
+  console.log(`API Health: http://localhost:${PORT}/api/health`);
   console.log(`Try: GET http://localhost:${PORT}/api/orders/NSR-1001`);
 });

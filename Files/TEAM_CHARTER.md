@@ -1,23 +1,70 @@
-🚀 Breaking tasks into smaller tasks/milestone and then marking the end of each milestone.
+🚀 NORTHSTAR SPRINT — TEAM CHARTER
+
+Project: Northstar Support Deflection MVP
+
+Sprint: 5 Days
+
+Team: Clarryson, Ketim, Ian, Cosmas, Gladys,Hopeson
+
+Team Roles
+Member	Role
+
+-Clarryson	Team Lead / Requirements / Integration
+
+-Ketim	Frontend / Chatbot Interface
+
+-Ian	Backend / Order Data / Order Lookup
+
+-Cosmas	Chatbot Logic / Conversation Flows
+
+-Gladys	Testing / Deployment / Handover
+
+-Hopeson Emirundu /project Coordinator
 
 
-📅 Milestones to be given to each member and a deadline for each milestone to be set either on a daily basis or a weekly basis.
 
-💪 Each member to say what they can do best so that milestones are given according to ones strength.
 
-  
-🚨 In case of a slowdown or a sudden halt to a milestone by a member, the member should communicate as early possible about the halt and the reason and how the rest of the team can help.
 
-  
-🙋 Members who do not understand a certain task should promptly let the rest of the team know. 
-Deadlines are to be adhered to strictly.
+##*****Team Working Rules****###
 
-⏰ We should give ourselves a day before the deadline to complete a project so that we have enough time to go through it to ensure that everything is okay.
+🚀 Task Breakdown: Break large tasks into smaller milestones with clear owners and Definitions of Done.
 
-🐸 We shall use the strategy, "Eat the Frog" meaning that we do the difficult tasks first before doing the easy tasks not unless there is a chronology of tasks where for example for you to do B you must first do A in which case A is the easier task. 
+📅 Deadlines: Every milestone must have an agreed deadline and members must meet it.
 
-🚀 Proactive Communication: Members should communicate blockers, delays, or challenges as soon as they arise.
+💪 Strengths: Assign tasks according to each member's skills and strengths.
 
-📋 Board Updates: All members must update the project board whenever they start, pause, or complete a task.
+🚨 Blockers: Report delays, blockers, or halted tasks immediately and explain how the team can help.
 
-✅ Quality Assurance: No task should be marked as complete until it meets its Definition of Done and has been properly reviewed.
+🙋 Clarification: Ask the team promptly whenever a task or requirement is unclear.
+
+⏰ Buffer: Aim to complete major work at least one day before the final deadline for testing and corrections.
+
+🐸 Eat the Frog: Prioritize difficult and high-risk tasks first, while respecting task dependencies.
+
+📋 Board Updates: Update the GitHub Project Board whenever a task is started, paused, blocked, reviewed, or completed.
+
+✅ Quality: A task can only be marked Done after its Definition of Done is satisfied and the work has been reviewed.
+
+🤝 Teamwork: Members shall support one another, communicate respectfully, and contribute meaningfully to the final project.
+Team Agreement
+
+
+By signing below, we confirm that we have read, understood, and agreed to follow this Team Charter throughout the Northstar Sprint.
+
+Member	             ** Signature	
+
+Clarryson:	   _Ckay
+
+Ketim:	      _ket 
+
+Ian:	       _kaleian
+
+Cosmas:	     __Cosmas Okello Ondino
+
+Gladys :      	________________
+
+Hopeson Emirundu:________________
+
+Team Lead: Clarryson
+
+Signature: __Ckay
