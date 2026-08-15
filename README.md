@@ -29,7 +29,7 @@ The goal is not to build a complete production system. The goal is to build a wo
 | Ian| Backend / Order Data / Order Lookup |
 | Cosmas| Chatbot Logic / Conversation Flows |
 | Gladys | Testing / Deployment / Handover |
-
+|Hopesone|Project Coordinator
 > Primary responsibility does not prevent other members from contributing through reviews, testing, documentation, integration, debugging, or other agreed work.
 
 ---
