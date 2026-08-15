@@ -39,4 +39,4 @@ tested end-to-end against the supported ticket categories.
 - Commit history
 - Pull Requests
 - Pull Request reviews
-- Project Board timestamps
+- Project Board timestamps.
