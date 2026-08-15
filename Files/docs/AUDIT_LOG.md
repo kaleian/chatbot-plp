@@ -7,11 +7,11 @@ Support Deflection MVP
 
 | Member | Role | Issue/Task | Branch | PR | Status |
 |---|---|---|---|---|---|
-| Clarryson | Integration | Integrate chatbot components | feature/chatbot-integration | PR #XX | Merged |
-| Ketim | Frontend | Chatbot interface | feature/chatbot-interface | PR #XX | Merged |
-| Ian | Backend | Order lookup | feature/backend-order-lookup | PR #XX | Merged |
-| Cosmas | Chatbot Logic | Conversation flows | feature/chatbot-logic | PR #XX | Merged |
-| Gladys | Testing | Testing and deployment | test/chatbot-testing | PR #XX | Merged |
+| Clarryson | Integration | Integrate chatbot components | feature/chatbot-integration | confirmed | Merged |
+| Ketim | Frontend | Chatbot interface | feature/chatbot-interface | confirmed| Merged |
+| Ian | Backend | Order lookup | feature/backend-order-lookup | confirmed | Merged |
+| Cosmas | Chatbot Logic | Conversation flows | feature/chatbot-logic | confirmed| Merged |
+| Gladys | Testing | Testing and deployment | test/chatbot-testing |confirmed| Merged |
 |Hopeson|Project coordinator|
 
 ## Collaboration Process
