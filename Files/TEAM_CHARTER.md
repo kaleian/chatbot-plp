@@ -55,11 +55,12 @@ Member	             ** Signature
 
 Clarryson:	    _Ckay______________
 
-Ketim:	        __________________	
+Ketim:	       _ket __________________	
 
-Ian:	          __________________	
+Ian:	         _______kaleian___________	
 
-Cosmas:	        __________________	
+Cosmas:	        ____Cosmas Okello Ondino
+______________	
 
 Gladys :      	________________
 
