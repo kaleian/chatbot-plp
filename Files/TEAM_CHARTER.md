@@ -19,7 +19,8 @@ Member	Role
 
 -Gladys	Testing / Deployment / Handover
 
--Hopeson Emirundu /project manager
+-Hopeson Emirundu /project Coordinator
+
 
 
 
