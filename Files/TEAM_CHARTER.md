@@ -53,18 +53,17 @@ By signing below, we confirm that we have read, understood, and agreed to follow
 
 Member	             ** Signature	
 
-Clarryson:	   _Ckay
+Clarryson:	   {_Ckay}
 
-Ketim:	      _ket 
+Ketim:	    { _ket }
 
-Ian:	       _kaleian
+Ian:	     { _kaleian}
 
-Cosmas:	     __Cosmas Okello Ondino
+Cosmas:	     {__Cosmas Okello Ondino}
 
-Gladys :      	________________
+Gladys :    { __Glady}
 
-Hopeson Emirundu:________________
-
+Hopeson Emirundu:__{hopeson}
 Team Lead: Clarryson
 
-Signature: __Ckay
+Signature:{_Ckay}
