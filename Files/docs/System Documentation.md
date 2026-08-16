@@ -6,7 +6,7 @@ The Northstar Support Deflection MVP is a chatbot designed to reduce repetitive 
 
 The MVP supports at least two ticket categories:
 - Order Status
-- Returns & Refunds
+- Returns & Refunds.
 
 The goal is to demonstrate that chatbot-based support deflection can reduce manual ticket handling and provide customers with faster responses.
 
