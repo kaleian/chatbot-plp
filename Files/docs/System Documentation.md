@@ -327,4 +327,4 @@ Purpose: Reduce repetitive customer-support tickets through chatbot-based suppor
 
 Status: MVP
 
-Team: Northstar Sprint Team
+Team: Northstar Sprint Team.
