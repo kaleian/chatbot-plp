@@ -186,7 +186,8 @@ Examples:
 - `feat: add support flows - handles order and refund questions`
 - `fix: handle invalid order numbers - prevents failed order lookups`
 - `test: verify chatbot flows - confirms supported questions work correctly`
-- `docs: add system documentation - explains system operation and maintenance`
+- `docs: add system documentation - explains system operation and maintenance'
+-  'docs: add chatbot logic - provides guidance for return & refunds and chatbot conversation with customers'
 
 The following commit messages should not be used:
 - `wip`
