@@ -1,4 +1,4 @@
-Chatbot intergrates "Order Status" with "Return & Refunds" based on correspondence between option. "Order Status" and "Return & Refunds" must corrrespond. 
+Chatbot intergrates "Order Status" with "Return & Refunds" based on correspondence between option. "Order Status" and "Return & Refunds" must corrrespond.
 
 "Order Status" comes before "Return & Refunds" 
 
