@@ -1,4 +1,4 @@
--Chatbot says "Hello, how do I help you today?" and gives a number of options. One of the options is "Return and Refunds" 
+-Chatbot says "Hello, how do I help you today?" and gives a number of options. One of the options is "Return and Refunds." 
 
 -Chatbot gives options under "Return and Refunds". The options are "Check Return Eligibility", "How To Request a Return", "How to Return an Order", "Refund Guidlines" and "Return Timelines"
 
